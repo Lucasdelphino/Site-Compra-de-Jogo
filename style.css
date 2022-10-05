@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #212928;
+}
+
+.cabecalho {
+    background: #BBBBBB;
+    display: flex;
+}
+
+.inscre {
+    margin-left: 1500px;
+    margin-top: 25px;
+    font-size: 23px;
+}
+
+.entrar {
+    margin-left: 40px;
+    margin-top: 25px;
+    font-size: 23px;
+    color: white;
+    background: #000000;
+    border-radius: 6px;
+    width: 63px;
+    height: 25px;
+
+}
+
+.pretudo{
+
+}
+
+.pre {
+    font-family: 'Post No Bills Jaffna Light';
+    font-size: 38px;
+    line-height: 57px;
+    color: #FFFFFF;
+}
+
+
+
+.gratuito {
+}
+
+.suge {
+    font-family: 'Post No Bills Jaffna Light';
+    font-size: 38px;
+    line-height: 57px;
+    color: #FFFFFF;
+}
+
+.foto img{
+    width: 371px;
+    height: 220px;
+    border-radius: 20px;
+    padding: 40px;
+    border-radius: 80px;
+}
