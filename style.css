@@ -9,6 +9,10 @@ body {
     display: flex;
 }
 
+.logo{
+    margin-left: 15px;
+}
+
 .inscre {
     margin-left: 1500px;
     margin-top: 25px;
@@ -18,13 +22,17 @@ body {
 .entrar {
     margin-left: 40px;
     margin-top: 25px;
+    margin-left: 25px;
     font-size: 23px;
     color: white;
-    background: #000000;
+    background: #313131;
     border-radius: 6px;
-    width: 63px;
-    height: 25px;
+    width: 80px;
+    height: 30px;
+}
 
+.entrar{
+    text-align: center;
 }
 
 .pretudo{
@@ -56,4 +64,52 @@ body {
     border-radius: 20px;
     padding: 40px;
     border-radius: 80px;
+}
+
+.final{
+    display: flex;
+}
+
+.image img{
+    width: 443px;
+    height: 270px;
+    border-radius: 20px;
+    padding: 40px;
+    border-radius: 80px;
+}
+
+.image{
+    margin-left: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.ghost{
+    color: white;
+    font-size: 38px;
+    margin-left:-35px;
+    align-content: ;
+}
+
+
+/* spider */
+.image2 img{
+    width: 368px;
+    height: 213px;;
+    border-radius: 20px;
+    padding: 40px;
+    border-radius: 80px;
+}
+
+.image2{
+    margin-top: 40px;
+    font-size: 38px;
+    align-items: center;
+    display: flex;
+}
+
+.spider{
+    color: white;
+    font-size: 38px;
+    margin-left:-30px;
 }
